@@ -39,3 +39,7 @@ Cliquez sur "Get Rickrolled" pour vous faire rickroller
 Cliquez sur "Buy me a virtual coffee" pour me rendre virtuellement riche.
 
 ![Capture d'écran 2024-06-09 141946](https://github.com/Tiyann44/CountryFinderDocumentation/assets/135506893/6d17bdc4-0bb2-4b23-9707-5389b6e75698)
+
+##I'm feeling lucky
+
+En cliquant sur ce bouton, vous serez redirigé sur un pays aléaotire. Si ça c'est pas beau comme feature !
