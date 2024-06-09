@@ -6,6 +6,9 @@ L'application *Country Finder* permet de trouver le pays que vous souhaitez en s
 
 Avant toute chose, appuyez sur le bouton *synchro*, en haut à gauche de votre application. Il permet de charger les pays.
 
+![Capture d'écran 2024-06-09 131345](https://github.com/Tiyann44/CountryFinderDocumentation/assets/135506893/ac27e7f4-130c-4a76-8156-1ecb34721a81)
+
+
 Pour chercher des pays, 2 options s'offrent à vous : vous pouvez soit scroller, soit chercher le pays avec la barre de recherche.
 
 ## Informations d'un pays
