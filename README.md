@@ -25,6 +25,9 @@ Pour accéder aux favoris, cliquez en haut à gauche sur les trois points, puis 
 
 Vous pouvez cliquer sur n'importe quel pays présent dans la liste pour avoir accès à ses informations. La barre de navigation n'est pas utilisable pour les favoris.
 
+![Capture d'écran 2024-06-09 142200](https://github.com/Tiyann44/CountryFinderDocumentation/assets/135506893/375f5cba-2235-49b1-a29c-e3b9c6441cf2)
+
+
 ## Aide
 
 Pour accéder au menu aide, cliquez en haut à gauche sur les trois points, puis sur *Help*, ou alors cliquez sur le petit logo *interrogation* si ce dernier s'affiche.
