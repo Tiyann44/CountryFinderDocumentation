@@ -17,6 +17,8 @@ Pour accéder aux informations d'un pays, taper le nom du pays ou de sa capitale
 
 Appuyez sur "Add to favorites" pour ajouter le pays aux favoris, ou appuyez sur "Remove from favorites" pour le supprimer des favoris.
 
+![Capture d'écran 2024-06-09 141758](https://github.com/Tiyann44/CountryFinderDocumentation/assets/135506893/11a07de1-208d-4819-975a-c4a3d593c989)
+
 ## Favoris
 
 Pour accéder aux favoris, cliquez en haut à gauche sur les trois points, puis sur *Favorites*, ou alors cliquez sur le petit logo *étoile* si ce dernier s'affiche.
