@@ -42,4 +42,4 @@ Cliquez sur "Buy me a virtual coffee" pour me rendre virtuellement riche.
 
 ## I'm feeling lucky
 
-En cliquant sur ce bouton, vous serez redirigé sur un pays aléaotire. Si ça c'est pas beau comme feature !
+En cliquant sur ce bouton, vous serez redirigé sur un pays aléatoire. Si ça c'est pas beau comme feature !
